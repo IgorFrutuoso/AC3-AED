@@ -1,0 +1,6 @@
+pandas
+numpy
+missingno 
+matplotlib
+seaborn
+plotly.express
