@@ -4,3 +4,5 @@ missingno
 matplotlib
 seaborn
 plotly.express
+nbformat
+ipython
